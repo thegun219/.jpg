@@ -1,1 +1,1 @@
-<?php echo shell_exec("whoami");?>
+<?php echo exec("whoami");?>
